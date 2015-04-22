@@ -19,7 +19,11 @@ Curso voltado a introdução e aplicação de estruturas de dados
     1. Simples
     2. Circular
     2. Encadeada
-    3. Duplamente encadeada
+    3. Duplamente Encadeada
   3. Conclusão
 5. Arvores
-  1.  
+  1. Definição
+  2. Implementação
+    1. Arvore Binária de Busca 
+  3. Conclusão
+6. Revisão e Próximos Passos
