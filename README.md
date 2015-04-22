@@ -1,5 +1,5 @@
-# Estrutura de Dados
-Curso voltado a introdução e aplicação de estruturas de dados
+# Desmistificando Estruturas de Dados
+Curso destinado a introdução e aplicação de estruturas de dados, organizado nos seguintes tópicos:
 
 1. Introdução
   1. Ementa
